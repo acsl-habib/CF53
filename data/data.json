@@ -1,0 +1,13 @@
+[
+     {
+          "batch": "R-53",
+          "round": "53",
+          "title": "Computer Fundamentals",
+          "quizzes": [
+              
+               {"module": "01", "no": 1, "date": "Aug.11.2022", "coverage":"Hardware Concepts to Network Types", "folder":"M1/CF01" }
+               
+
+          ]
+     }
+]
