@@ -24,7 +24,8 @@
                {"module": "01", "no": 17, "date": "Sep.05.2022", "coverage":"Mock Mid", "folder":"M1/CF15" },
                {"module": "01", "no": 18, "date": "Sep.05.2022", "coverage":"Mock Mid", "folder":"M1/CF16" },
                {"module": "01", "no": 19, "date": "Sep.05.2022", "coverage":"Mock Mid", "folder":"M1/CF17" },
-               {"module": "01", "no": 20, "date": "Sep.14.2022", "coverage":"MS Access", "folder":"M1/CF18" }
+               {"module": "01", "no": 20, "date": "Sep.14.2022", "coverage":"MS Access", "folder":"M1/CF18" },
+               {"module": "01", "no": 20, "date": "Sep.21.2022", "coverage":"Preparatory", "folder":"M1/CF19" }
                
                
           ]
